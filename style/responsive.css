@@ -1,0 +1,71 @@
+body{
+	border: 2px solid palevioletred;
+}
+.banner {
+	display: inline-block;
+	text-align: center;
+	padding: 0;
+}
+h1 {
+	line-height: 1.7;
+	font-size: 1.8rem;
+}
+.banner img {
+	padding: 2rem 0;
+	max-height: 22vh;
+	max-width: fit-content;
+}
+ul {
+	display: block;
+	text-align: center;
+}
+li {
+	font-weight: bolder;
+	font-size: 2rem;
+	padding: .6rem 0;
+}
+
+.ods{ 
+	display: block;
+}
+h2 {
+	text-align: center;
+	font-size: 2.1rem;
+	padding: 3% 0;
+}
+.texto, .texto_just, .artigo{
+	max-width: 100%;
+	font-size: 1.6rem;
+	line-height: 2.5rem;
+	padding: 3% 0;
+}
+.img_section {
+	max-width: 35vh;
+	padding: 5% 23%;
+}
+
+.article_box {
+	display: block;
+}
+article {
+	margin: 0;
+	width: 100%;
+	display: block;
+	padding: 5% 0;
+	text-align: center;
+}
+h3 {
+	font-size: 2.2rem;
+}
+.foto_projetos {
+	width: 45vh;
+	padding-top: 2rem;
+}
+
+.videos {
+	display: block;
+}
+iframe {
+	margin: 2rem auto;
+	width: 98%;
+} 
